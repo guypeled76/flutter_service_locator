@@ -1,6 +1,7 @@
 name: flutter_service_locator
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
+homepage: https://github.com/guypeled76
 author: Guy Peled <guypeled76@gmail.com>
 
 environment:
